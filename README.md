@@ -1,0 +1,1 @@
+A simple Notepad application built with an Express.js backend using PostgreSQL and a React.js frontend. The application allows you to add, edit, and delete notes, and displays the notes in a responsive grid layout.
